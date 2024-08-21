@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th{
+    border: 2px solid black;
+    background-color:bisque;
+    padding: 10px;
+    /* text-align: left; */
+}
+td{
+    border: 2px solid black;
+    text-align: left;
+    padding: 4px;
+}
